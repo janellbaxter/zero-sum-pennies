@@ -1,0 +1,13 @@
+C:\Users\jb\Documents\Visual Studio 2017\Projects\SIM-zero-sum-Pennies\SIM-zero-sum-Pennies\bin\Debug\SIM-zero-sum-Pennies.exe.config
+C:\Users\jb\Documents\Visual Studio 2017\Projects\SIM-zero-sum-Pennies\SIM-zero-sum-Pennies\bin\Debug\SIM-zero-sum-Pennies.exe
+C:\Users\jb\Documents\Visual Studio 2017\Projects\SIM-zero-sum-Pennies\SIM-zero-sum-Pennies\bin\Debug\SIM-zero-sum-Pennies.pdb
+C:\Users\jb\Documents\Visual Studio 2017\Projects\SIM-zero-sum-Pennies\SIM-zero-sum-Pennies\obj\Debug\MainWindow.g.cs
+C:\Users\jb\Documents\Visual Studio 2017\Projects\SIM-zero-sum-Pennies\SIM-zero-sum-Pennies\obj\Debug\App.g.cs
+C:\Users\jb\Documents\Visual Studio 2017\Projects\SIM-zero-sum-Pennies\SIM-zero-sum-Pennies\obj\Debug\SIM-zero-sum-Pennies_MarkupCompile.cache
+C:\Users\jb\Documents\Visual Studio 2017\Projects\SIM-zero-sum-Pennies\SIM-zero-sum-Pennies\obj\Debug\SIM-zero-sum-Pennies_MarkupCompile.lref
+C:\Users\jb\Documents\Visual Studio 2017\Projects\SIM-zero-sum-Pennies\SIM-zero-sum-Pennies\obj\Debug\MainWindow.baml
+C:\Users\jb\Documents\Visual Studio 2017\Projects\SIM-zero-sum-Pennies\SIM-zero-sum-Pennies\obj\Debug\SIM-zero-sum-Pennies.g.resources
+C:\Users\jb\Documents\Visual Studio 2017\Projects\SIM-zero-sum-Pennies\SIM-zero-sum-Pennies\obj\Debug\SIM_zero_sum_Pennies.Properties.Resources.resources
+C:\Users\jb\Documents\Visual Studio 2017\Projects\SIM-zero-sum-Pennies\SIM-zero-sum-Pennies\obj\Debug\SIM-zero-sum-Pennies.csproj.GenerateResource.Cache
+C:\Users\jb\Documents\Visual Studio 2017\Projects\SIM-zero-sum-Pennies\SIM-zero-sum-Pennies\obj\Debug\SIM-zero-sum-Pennies.exe
+C:\Users\jb\Documents\Visual Studio 2017\Projects\SIM-zero-sum-Pennies\SIM-zero-sum-Pennies\obj\Debug\SIM-zero-sum-Pennies.pdb
